@@ -4,3 +4,4 @@ usb-bus-path.diff
 hurd.diff
 kfreebsd.diff
 pcap-config.diff
+lp2076398-linux-set-handlep-vlan_offset-if-the-linktype-is-cha.patch
